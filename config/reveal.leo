@@ -389,7 +389,13 @@ make.start()
 <t tx="leo.20181019110449.1">* Homework:
 
 [Week1 Homework](https://youtu.be/OJ5o-s2Z0BY?list=UUKzlpk2NYIW5n8cU3LNTbkg)</t>
-<t tx="leo.20181019113521.1"></t>
+<t tx="leo.20181019113521.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20181019113542.1">* Homework:
 
 [Week2 Homework-1](https://www.youtube.com/watch?v=lgCx1TIQcq4)
