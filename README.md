@@ -6,7 +6,7 @@
 
 Blog:https://mdecadp2018.github.io/site-40623111/blog/index.html
 
-投影片:https://mdecadp2018.github.io/site-40623111/reveal/index.html#/
+投影片:https://mdecadp2018.github.io/site-40623111/reveal/index.html/
 =======
 http://mdecadp2018.github.io/site-40623111/
 >>>>>>> 8e22dc6fb2430bfcc6ff4afa76436dc102981816
