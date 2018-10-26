@@ -29,7 +29,7 @@
 <v t="leo.20181012103839.1"><vh>w1</vh></v>
 </v>
 <v t="leo.20181019110339.1" a="E"><vh>w1 homework</vh>
-<v t="leo.20181019110449.1"><vh>w1 </vh></v>
+<v t="leo.20181019110449.1"><vh>w1</vh></v>
 </v>
 </v>
 <v t="leo.20181019105830.1" a="E"><vh>w2</vh>
@@ -43,6 +43,9 @@
 <v t="leo.20181019105901.1" a="E"><vh>w3</vh>
 <v t="leo.20181019105926.1" a="E"><vh>w3</vh>
 <v t="leo.20181019105937.1"><vh>w3</vh></v>
+</v>
+<v t="leo.20181026113619.1" a="E"><vh>w3 homework</vh>
+<v t="leo.20181026113636.1"><vh>w3</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -377,7 +380,9 @@ make.start()
 * 編輯 pelican.leo 網誌
 * 申請 onshape 帳號
 </t>
-<t tx="leo.20181019105937.1">* w3 上課內容</t>
+<t tx="leo.20181019105937.1">* w3 上課內容
+
+</t>
 <t tx="leo.20181019110339.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -388,7 +393,9 @@ make.start()
 </t>
 <t tx="leo.20181019110449.1">* Homework:
 
-[Week1 Homework](https://youtu.be/OJ5o-s2Z0BY?list=UUKzlpk2NYIW5n8cU3LNTbkg)</t>
+[Week1 Homework](https://youtu.be/OJ5o-s2Z0BY?list=UUKzlpk2NYIW5n8cU3LNTbkg)
+
+</t>
 <t tx="leo.20181019113521.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -404,6 +411,12 @@ make.start()
 
 [Week2 Homework-4](https://www.youtube.com/watch?v=aT23jmyTABI)
 
-[Week2 Homework-5](https://www.youtube.com/watch?v=zaM_srRT2u4)</t>
+[Week2 Homework-5](https://www.youtube.com/watch?v=zaM_srRT2u4)
+
+</t>
+<t tx="leo.20181026113619.1"></t>
+<t tx="leo.20181026113636.1">* Homework:
+
+[Week2 Homework-1](https://www.youtube.com/watch?v=D2kO3Ewol4M&amp;index=1&amp;list=UUKzlpk2NYIW5n8cU3LNTbkg)</t>
 </tnodes>
 </leo_file>
