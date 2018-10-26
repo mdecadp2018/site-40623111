@@ -380,7 +380,7 @@ make.start()
 * 編輯 pelican.leo 網誌
 * 申請 onshape 帳號
 </t>
-<t tx="leo.20181019105937.1">* w3 上課內容
+<t tx="leo.20181019105937.1"># Week 3 上課內容
 
 </t>
 <t tx="leo.20181019110339.1">&lt;section data-markdown&gt;
