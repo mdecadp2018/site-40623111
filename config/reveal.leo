@@ -414,7 +414,13 @@ make.start()
 [Week2 Homework-5](https://www.youtube.com/watch?v=zaM_srRT2u4)
 
 </t>
-<t tx="leo.20181026113619.1"></t>
+<t tx="leo.20181026113619.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20181026113636.1">* Homework:
 
 [Week2 Homework-1](https://www.youtube.com/watch?v=D2kO3Ewol4M&amp;index=1&amp;list=UUKzlpk2NYIW5n8cU3LNTbkg)</t>
