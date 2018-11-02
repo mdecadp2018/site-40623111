@@ -57,7 +57,7 @@
 </v>
 </v>
 <v t="leo.20181102111515.1" a="E"><vh>w5</vh>
-<v t="leo.20181102111807.1"><vh>w5 上課內容</vh>
+<v t="leo.20181102111807.1" a="E"><vh>w5 上課內容</vh>
 <v t="leo.20181102112131.1"><vh>w5</vh></v>
 </v>
 <v t="leo.20181102112920.1" a="E"><vh>w5 上課影片</vh>
@@ -504,11 +504,11 @@ make.start()
 <t tx="leo.20181102111744.1"># Week 4 上課內容
 
 
-*提醒同學使用英文版onshape,英文才會進步!!
+* 提醒同學使用英文版onshape,英文才會進步!!
 
-*Onshape 課程說明和字典使用方法
+* Onshape 課程說明和字典使用方法
 
-*除錯Cmsimfly的錯誤</t>
+* 除錯Cmsimfly的錯誤</t>
 <t tx="leo.20181102111807.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -566,11 +566,11 @@ make.start()
 </t>
 <t tx="leo.20181102112131.1"># Week 5 上課內容
 
-##課程內容
+## 課程內容
 
-*Onshape 的設計繪圖說明
+* Onshape 的設計繪圖說明
 
- *Variable 定義簡化繪圖流程
+* Variable 定義簡化繪圖流程
 
 
 </t>
