@@ -423,17 +423,17 @@ make.start()
 
 * 申請 onshape 帳號
 </t>
-<t tx="leo.20181019105937.1">##Week 3 上課內容
+<t tx="leo.20181019105937.1"># Week 3 上課內容
 
-###學習使用onshape:
+### 學習使用onshape:
 
-*Sketch新建草稿(shift-s)
-*Extrude擠出(shift-e)
-*Remove除料
-*Fillet導圓角(shift-f)
-*Mirror鏡像
-*Dimension更改尺寸(進入草圖-d)
-*Tangent相切(進入草圖-t)</t>
+* Sketch新建草稿(shift-s)
+* Extrude擠出(shift-e)
+* Remove除料
+* Fillet導圓角(shift-f)
+* Mirror鏡像
+* Dimension更改尺寸(進入草圖-d)
+* Tangent相切(進入草圖-t)</t>
 <t tx="leo.20181019110339.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
