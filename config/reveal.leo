@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>w1</vh>
@@ -33,7 +33,7 @@
 </v>
 </v>
 <v t="leo.20181019105830.1" a="E"><vh>w2</vh>
-<v t="leo.20181019105919.1" a="E"><vh>w2</vh>
+<v t="leo.20181019105919.1" a="E"><vh>w2 上課內容</vh>
 <v t="leo.20181019105931.1"><vh>w2</vh></v>
 </v>
 <v t="leo.20181019113521.1" a="E"><vh>w2 homework</vh>
@@ -41,11 +41,52 @@
 </v>
 </v>
 <v t="leo.20181019105901.1" a="E"><vh>w3</vh>
-<v t="leo.20181019105926.1" a="E"><vh>w3</vh>
+<v t="leo.20181019105926.1" a="E"><vh>w3 上課內容</vh>
 <v t="leo.20181019105937.1"><vh>w3</vh></v>
 </v>
 <v t="leo.20181026113619.1" a="E"><vh>w3 homework</vh>
 <v t="leo.20181026113636.1"><vh>w3</vh></v>
+</v>
+</v>
+<v t="leo.20181102111508.1" a="E"><vh>w4</vh>
+<v t="leo.20181102111742.1" a="E"><vh>w4 上課內容</vh>
+<v t="leo.20181102111744.1"><vh>w4</vh></v>
+</v>
+<v t="leo.20181102111941.1" a="E"><vh>w4 homework</vh>
+<v t="leo.20181102112008.1"><vh>w4</vh></v>
+</v>
+</v>
+<v t="leo.20181102111515.1" a="E"><vh>w5</vh>
+<v t="leo.20181102111807.1"><vh>w5 上課內容</vh>
+<v t="leo.20181102112131.1"><vh>w5</vh></v>
+</v>
+<v t="leo.20181102112920.1" a="E"><vh>w5 上課影片</vh>
+<v t="leo.20181102112935.1"><vh>w5</vh></v>
+</v>
+<v t="leo.20181102114441.1" a="E"><vh>w5</vh>
+<v t="leo.20181102114500.1"><vh>w5</vh></v>
+</v>
+<v t="leo.20181102114436.1" a="E"><vh>w5</vh>
+<v t="leo.20181102114501.1"><vh>w5</vh></v>
+</v>
+<v t="leo.20181102112017.1" a="E"><vh>w5 homework</vh>
+<v t="leo.20181102112137.1"><vh>w5</vh></v>
+</v>
+</v>
+<v t="leo.20181102111523.1" a="E"><vh>w6</vh>
+<v t="leo.20181102111816.1" a="E"><vh>w6 上課內容</vh>
+<v t="leo.20181102112140.1"><vh>w6</vh></v>
+</v>
+<v t="leo.20181102112019.1" a="E"><vh>w6 homework</vh>
+<v t="leo.20181102112145.1"><vh>w6</vh></v>
+</v>
+</v>
+<v t="leo.20181102111605.1" a="E"><vh>w7</vh>
+<v t="leo.20181102111824.1" a="E"><vh>w7 上課內容</vh>
+<v t="leo.20181102112150.1"><vh>w7</vh></v>
+</v>
+<v t="leo.20181102112021.1" a="E"><vh>w7 homework</vh>
+<v t="leo.20181102112153.1"><vh>w7</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -377,12 +418,22 @@ make.start()
 <t tx="leo.20181019105931.1"># Week 2上課內容
 
 * 編輯 reveal.leo 簡報內容
+
 * 編輯 pelican.leo 網誌
+
 * 申請 onshape 帳號
 </t>
-<t tx="leo.20181019105937.1"># Week 3 上課內容
+<t tx="leo.20181019105937.1">##Week 3 上課內容
 
-</t>
+###學習使用onshape:
+
+*Sketch新建草稿(shift-s)
+*Extrude擠出(shift-e)
+*Remove除料
+*Fillet導圓角(shift-f)
+*Mirror鏡像
+*Dimension更改尺寸(進入草圖-d)
+*Tangent相切(進入草圖-t)</t>
 <t tx="leo.20181019110339.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -423,6 +474,138 @@ make.start()
 </t>
 <t tx="leo.20181026113636.1">* Homework:
 
-[Week2 Homework-1](https://www.youtube.com/watch?v=D2kO3Ewol4M&amp;index=1&amp;list=UUKzlpk2NYIW5n8cU3LNTbkg)</t>
+[Week3 Homework-1](https://www.youtube.com/watch?v=D2kO3Ewol4M&amp;index=1&amp;list=UUKzlpk2NYIW5n8cU3LNTbkg)
+
+</t>
+<t tx="leo.20181102111508.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102111515.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102111523.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102111605.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102111742.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102111744.1"># Week 4 上課內容
+
+
+*提醒同學使用英文版onshape,英文才會進步!!
+
+*Onshape 課程說明和字典使用方法
+
+*除錯Cmsimfly的錯誤</t>
+<t tx="leo.20181102111807.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102111816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102111824.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102111941.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102112008.1">* Homework:
+
+</t>
+<t tx="leo.20181102112017.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102112019.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102112021.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102112131.1"># Week 5 上課內容
+
+##課程內容
+
+*Onshape 的設計繪圖說明
+
+ *Variable 定義簡化繪圖流程
+
+
+</t>
+<t tx="leo.20181102112137.1">* Homework:
+
+[Week5 homework](https://www.youtube.com/watch?v=dYgd5dnWJzs&amp;feature=youtu.be)</t>
+<t tx="leo.20181102112140.1"># Week 6 上課內容</t>
+<t tx="leo.20181102112145.1"></t>
+<t tx="leo.20181102112150.1"># Week 7 上課內容</t>
+<t tx="leo.20181102112153.1"></t>
+<t tx="leo.20181102112920.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102112935.1">###上課影片
+
+&lt;iframe width="400" height="280" src="https://www.youtube.com/embed/0SKgCf2zJV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102114436.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102114441.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181102114500.1">&lt;iframe width="400" height="280" src="https://www.youtube.com/embed/0SKgCf2zJV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102114501.1">&lt;iframe width="400" height="280" src="https://www.youtube.com/embed/GE48pZWK8vI?ecver=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
